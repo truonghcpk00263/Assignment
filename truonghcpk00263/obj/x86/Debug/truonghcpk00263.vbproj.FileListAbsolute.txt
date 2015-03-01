@@ -1,0 +1,12 @@
+E:\form\truonghcpk00263\truonghcpk00263\bin\Debug\truonghcpk00263.exe
+E:\form\truonghcpk00263\truonghcpk00263\bin\Debug\truonghcpk00263.pdb
+E:\form\truonghcpk00263\truonghcpk00263\bin\Debug\truonghcpk00263.xml
+E:\form\truonghcpk00263\truonghcpk00263\obj\x86\Debug\truonghcpk00263.frmQLbanhang.resources
+E:\form\truonghcpk00263\truonghcpk00263\obj\x86\Debug\truonghcpk00263.Resources.resources
+E:\form\truonghcpk00263\truonghcpk00263\obj\x86\Debug\truonghcpk00263.vbproj.GenerateResource.Cache
+E:\form\truonghcpk00263\truonghcpk00263\obj\x86\Debug\truonghcpk00263.exe
+E:\form\truonghcpk00263\truonghcpk00263\obj\x86\Debug\truonghcpk00263.xml
+E:\form\truonghcpk00263\truonghcpk00263\obj\x86\Debug\truonghcpk00263.pdb
+E:\form\truonghcpk00263\truonghcpk00263\obj\x86\Debug\truonghcpk00263.frmHoadon.resources
+E:\form\truonghcpk00263\truonghcpk00263\obj\x86\Debug\truonghcpk00263.frmSanpham.resources
+E:\form\truonghcpk00263\truonghcpk00263\obj\x86\Debug\truonghcpk00263.frmChitiethoadon.resources
